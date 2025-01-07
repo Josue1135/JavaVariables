@@ -1,4 +1,4 @@
-public class Primitivos {
+public class PrimitivosEnteros {
     public static void main(String[] args){
         byte numeroByte = -128; //Byte usa entre -128 a < 128+
         System.out.println("numero Byte impreso :  " + numeroByte);
